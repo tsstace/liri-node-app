@@ -1,0 +1,30 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "file-system": "^2.2.2",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^6.0.1",
+    "omdb": "^0.8.0",
+    "require": "^2.4.20",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsstace/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsstace/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tsstace/liri-node-app#readme"
+}
