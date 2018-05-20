@@ -10,7 +10,7 @@ LIRI, short for *L*anguage *I*nterpretation and *R*ecognition *I*nterface, is a 
 If the user enters a command other than one of these four functionalities, the app will execute the "do-what-it-says" scenario.
 
 # NPM packages used:
-twitter
-node-spotify-api
-request (used to get OMDB data)
-dotenv (used to hold private key data for Twitter and Spotify)
+* twitter
+* node-spotify-api
+* request (used to get OMDB data)
+* dotenv (used to hold private key data for Twitter and Spotify)
