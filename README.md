@@ -4,9 +4,9 @@ LIRI, short for *L*anguage *I*nterpretation and *R*ecognition *I*nterface, is a 
 
 "my-tweets" - returns my most recent tweets, limited to 20 entries.
 
-"spotify-this-song" [user entered song title] - returns full song title, artist, album and a url (if available)
+"spotify-this-song" [user entered song title] - returns full song title, artist, album and a url (if available); if the command is invoked without a song title then the app will return "Double Dutch Bus" by Frankie Smith.
 
-"movie-this" [user entered movie title] - returns full movie title, release year, rating, country, language, plot and actors 
+"movie-this" [user entered movie title] - returns full movie title, release year, rating, country, language, plot and actors; if the command is invoked without a movie title then the app will return "Back to the Beach" featuring Frankie Avalon and Annette Funicello. 
 
 "do-what-it-says" - reads a text file and returns the song data for our *random* choice:  "End of the Line" by the Traveling Wilburys
 
